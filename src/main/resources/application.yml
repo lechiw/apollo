@@ -1,0 +1,14 @@
+xyz:
+  name: liw
+app:
+  id: appId01
+
+apollo:
+  meta: http://127.0.0.1:8080
+  bootstrap:
+    enabled: true
+    eagerLoad:
+      enabled: true
+
+server:
+  port: 8800
